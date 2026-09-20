@@ -6,7 +6,7 @@ I came into security from writing code, and I did not stop writing it. Two inter
 
 The through-line is building things: a Linux kernel module in C, a multithreaded C++ game server, an LLM pipeline that runs unattended in Docker.
 
-**Looking for:** backend software engineering, DevSecOps / platform engineering, or cloud security. Junior to mid, in Israel.
+**Works on:** backend services, DevSecOps and platform tooling, cloud security. Based in Israel.
 
 ---
 
