@@ -4,7 +4,7 @@
 
 I came into security from writing code, and I did not stop writing it. Two internal platforms I built end to end are in daily production use, one of them across the whole company, and both were in scope for the company's SOC 2 audit. Before this I spent two years at Magshimim teaching C++ and computer networks to 10th and 11th graders, preparing them for elite IDF cyber units.
 
-Outside work I build things end to end: a home internet filter that blocks domains from inside the Linux kernel, a multiplayer trivia game with its own C++ server and wire protocol, and a scheduler that reads job listings with an LLM and messages me the matches on Telegram.
+Outside work I build things end to end: a home internet filter that blocks domains from inside the Linux kernel, a multiplayer trivia game with its own C++ server and wire protocol, and a scheduler that reads job listings with an LLM and messages the matches to Telegram.
 
 **Works on:** backend services, DevSecOps and platform tooling, cloud security. Based in Israel.
 
